@@ -1,12 +1,15 @@
-# 🗣️ Python Name Pronouncer (Text-to-Speech)
+# 🐍 Python Projects Repository
 
-This project uses Python and Windows Text-to-Speech (SAPI) to **pronounce a list of names aloud**. It's built with `win32com.client` and runs on any Windows machine with Python installed.
+This repository is a collection of Python-based projects. All code in this repository is written using the Python programming language.
 
----
+## 🔍 About
 
-## 🎯 Features
+Each folder in this repository contains a separate Python project, script, or experiment. The projects may vary in complexity — from small utility scripts to full applications — but they all share a common foundation in Python.
 
-- 🔊 Reads out names using the default system voice
-- 🪄 Easy to customize or integrate into other tools (like greeting bots, accessibility apps, etc.)
+## 📁 Structure
 
----
+- Each subfolder represents a standalone Python project.
+- Projects are self-contained and may include their own dependencies, and instructions.
+
+
+
